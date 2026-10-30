@@ -10,18 +10,18 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string>https://renardbleu.dev/dns-query</string>
+				<string>https://tyo03.dnscry.pt/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use OpenNIC(ns1.mo.us.dns.opennic.glue) DNS over HTTPS</string>
+			<string>Configures device to use dnscry.pt Tokyo DNS over HTTPS</string>
 			<key>PayloadDisplayName</key>
-			<string>OpenNIC(ns1.mo.us.dns.opennic.glue) DOH</string>
+			<string>dnscry.pt Tokyo DOH</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.f466e9e0-99d5-47fb-935f-44f8313db441</string>
+			<string>com.apple.dnsSettings.managed.670dc5f4-e72e-4194-b1d7-8cd0e9b75db6</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>F466E9E0-99D5-47FB-935F-44F8313DB441</string>
+			<string>670DC5F4-E72E-4194-B1D7-8CD0E9B75DB6</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProhibitDisablement</key>
@@ -45,29 +45,6 @@
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
 			<string>F5DF9C9B-0DBC-4753-9A61-C09E23FDB461</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>ProhibitDisablement</key>
-			<false/>
-		</dict>
-		<dict>
-			<key>DNSSettings</key>
-			<dict>
-				<key>DNSProtocol</key>
-				<string>HTTPS</string>
-				<key>ServerURL</key>
-				<string>https://dns2.slowb.ro/dns-query</string>
-			</dict>
-			<key>PayloadDescription</key>
-			<string>Configures device to use OpenNIC(ns5.au.dns.opennic.glue) DNS over HTTPS</string>
-			<key>PayloadDisplayName</key>
-			<string>OpenNIC(ns5.au.dns.opennic.glue) DOH</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.f577bb7a-c98c-4f0f-9672-db8e6fb11645</string>
-			<key>PayloadType</key>
-			<string>com.apple.dnsSettings.managed</string>
-			<key>PayloadUUID</key>
-			<string>F577BB7A-C98C-4F0F-9672-DB8E6FB11645</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProhibitDisablement</key>
